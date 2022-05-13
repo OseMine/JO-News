@@ -49,6 +49,9 @@ p {
 }
 
 .btn-3 {
-	background-color: green;
+	background-color: #008000;
 }
 
+.btn-3:hover {
+	background-color: #007000;
+}
