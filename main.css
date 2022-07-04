@@ -364,4 +364,5 @@ main section .content-wrap p {
   font-family: "montserrat", sans-serif;
   color: red;
   text-align: center;
+  cursor: w-resize;
 }
